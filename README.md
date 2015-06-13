@@ -1,4 +1,4 @@
-# MusicBrainz UserScripts
+# MusicBrainz UserScripts!
 
 * [Import Bandcamp releases to MusicBrainz](#bandcamp_importer)
 * [Import Bandcamp releases to MusicBrainz Album Link Helper](#bandcamp_importer_helper)
